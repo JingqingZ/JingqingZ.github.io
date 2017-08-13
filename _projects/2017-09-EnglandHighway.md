@@ -15,6 +15,6 @@ This project aims to predict traffic flow with deep neural network incorporated 
 
 England Highway Prediction Visualisation
 <div>
-    <img src="https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/demo.gif" style="width: 60%;"/>
+    <img src="https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/demo.gif" style="width: 80%;"/>
 </div>
 
