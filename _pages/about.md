@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://jingqingz.github.io/images/jingqingzhang.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+<p>
+  <img src="https://jingqingz.github.io/images/jingqingzhang.jpg?raw=true" alt="Photo" style="width: 80%;"/>
 </p>
 
 
