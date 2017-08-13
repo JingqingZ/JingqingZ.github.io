@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <p>
-  <img src="https://jingqingz.github.io/images/jingqingzhang.jpg?raw=true" alt="Photo" style="width: 80%;"/>
+  <img src="https://jingqingz.github.io/images/jingqingzhang1.jpg" alt="Photo: Tsinghua University" style="width: 49%;"/>
+  <img src="https://jingqingz.github.io/images/jingqingzhang2.jpg" alt="Photo: Munich" style="width: 49%;"/>
 </p>
 
 
