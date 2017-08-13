@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="https://lantaoyu.github.io/files/jingqingzhang.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+</p>
+
 
 About Me
 ======
