@@ -8,6 +8,7 @@ location: "London, UK"
 avatar: "https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/avatar.png"
 ---
 
+
 ## Abstract
 
 This project aims to predict traffic flow with deep neural network incorporated with both temporal and spatial features.
