@@ -31,12 +31,12 @@ accuracy and robustness.
 
 ## Demo
 
-England Highway Prediction Visualisation
+England Highway Prediction Visualisation (GIF)
 <div>
     <img src="https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/demo.gif" style="width: 80%;"/>
 </div>
 
-
+<br/>
 Visulisation on Global Data Observatory
 <div>
     <img src="https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/gdo_pano.png" style="width: 80%;"/>
