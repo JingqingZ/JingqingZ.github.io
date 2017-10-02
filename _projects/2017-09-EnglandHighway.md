@@ -10,7 +10,7 @@ avatar: "https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/avata
 
 This project is initially submitted in partial fulfillment 
 of the requirements for the MRes degree in Advanced Computing 
-of Imperial College London. 
+of Imperial College London. Accepted as a poster in [MLImperial2017](http://www.imperial.ac.uk/machine-learning/).
 
 
 ## Abstract 
@@ -44,7 +44,7 @@ Visulisation on Global Data Observatory
 
 ## Files
 
-[Poster](https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/poster.pdf") 
-[Thesis](https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/report.pdf") 
+[Poster](https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/poster.pdf) 
+[Thesis](https://jingqingz.github.io/files/projects/2017-09-EnglandHighway/report.pdf) 
 
 
