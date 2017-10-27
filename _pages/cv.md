@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. from Department of Computer Science and Technology, in Tsinghua University, 2012
+* B.Eng. from Department of Computer Science and Technology, in Tsinghua University, 2016
 * M.Res. from Department of Computing, in Imperial College London, 2017 (Distinction)
 
 

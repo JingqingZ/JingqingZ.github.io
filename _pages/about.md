@@ -14,7 +14,7 @@ redirect_from:
 </p>
 
 
-Jingqing Zhang (张敬卿) is a 1st-year PhD ([HiPEDS](http://wp.doc.ic.ac.uk/hipeds/)) at [Department of Computing](http://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/) under supervision of [Prof. Yi-Ke Guo](https://www.imperial.ac.uk/people/y.guo). His research interest includes Data Mining, Deep Learning, Machine Learning and their applications. He received his BEng degree in [Computer Science and Technology](http://www.tsinghua.edu.cn/publish/csen/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), 2012.
+Jingqing Zhang (张敬卿) is a 1st-year PhD ([HiPEDS](http://wp.doc.ic.ac.uk/hipeds/)) at [Department of Computing](http://www.imperial.ac.uk/computing), [Imperial College London](https://www.imperial.ac.uk/) under supervision of [Prof. Yi-Ke Guo](https://www.imperial.ac.uk/people/y.guo). His research interest includes Data Mining, Deep Learning, Machine Learning and their applications. He received his BEng degree in [Computer Science and Technology](http://www.tsinghua.edu.cn/publish/csen/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), 2016.
 
 
 ## Publications
