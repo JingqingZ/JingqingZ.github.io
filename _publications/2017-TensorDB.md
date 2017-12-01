@@ -5,6 +5,7 @@ permalink: /publication/2017-TensorDB
 date: 2017-10-27
 venue: "Int'l Conf. Artificial Intelligence (ICAI'17)"
 paperurl: 'https://csce.ucmss.com/books/LFS/CSREA2017/ICA3261.pdf'
+citation: 'Liu, F., A. Oehmichen, <b>J. Zhang</b>, K. Sun, H. Dong, Y. Mo, and Y. Guo. "TensorDB: Database Infrastructure for Continuous Machine Learning."'
 authors: 'Liu, F., A. Oehmichen, <b>J. Zhang</b>, K. Sun, H. Dong, Y. Mo, and Y. Guo.'
 ---
 
