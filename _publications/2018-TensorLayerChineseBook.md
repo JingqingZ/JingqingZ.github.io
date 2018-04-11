@@ -3,8 +3,8 @@ title: '深度学习：一起玩转TensorLayer (Deep Learning Using TensorLayer)
 collection: publications
 permalink: /publication/2018-TensorLayerChineseBook
 date: 2018-03-01
-venue: '电子工业出版社 (Publishing House of Electronics Industry),'
-paperurl: 'http://www.broadview.com.cn/book/5059'
+venue: '电子工业出版社 (Publishing House of Electronics Industry)'
+paperurl: 'https://github.com/tensorlayer/chinese-book'
 citation: '董豪，郭毅可，杨光，<b>张敬卿</b>，于思淼，陈竑，林一鸣，莫元汉，袁航，幺忠玮，吴超，王剑虹 (Hao Dong, Yike Guo, Guang Yang et al), 深度学习：一起玩转TensorLayer (Deep Learning Using TensorLayer), 电子工业出版社 (Publishing House of Electronics Industry), 2018 ISBN: 9787121326226'
 authors: '董豪，郭毅可，杨光，<b>张敬卿</b>，于思淼，陈竑，林一鸣，莫元汉，袁航，幺忠玮，吴超，王剑虹 (Hao Dong, Yike Guo, Guang Yang et al)'
 ---
