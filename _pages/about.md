@@ -24,11 +24,8 @@ Jingqing Zhang (张敬卿) is a 1st-year PhD ([HiPEDS](http://wp.doc.ic.ac.uk/hi
 * \[03/2018\] Our Chinese Deep Learning book is now published: "Deep Learning Using TensorLayer" 《深度学习：一起玩转TensorLayer》[\[Press\]](http://www.broadview.com.cn/book/5059) [\[Github\]](https://github.com/tensorlayer/chinese-book)
 
 ## Publications
-* 董豪，郭毅可，杨光，<b>张敬卿</b>，于思淼，陈竑，林一鸣，莫元汉，袁航，幺忠玮，吴超，王剑虹 (Hao Dong, Yike Guo, Guang Yang et al), 
-"深度学习：一起玩转TensorLayer (Deep Learning Using TensorLayer)", 
-电子工业出版社 (Publishing House of Electronics Industry),
-2018 ISBN: 9787121326226
-* Mo, Yuanhan, Fangde Liu, <b>Jingqing Zhang</b>, Guang Yang, Taigang He, and Yike Guo. "Deep Poincare Map For Robust Medical Image Segmentation." arXiv preprint arXiv:1703.09200 (2017).
-* Dong, Hao, <b>Jingqing Zhang</b>, Douglas McIlwraith, and Yike Guo. "I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation." arXiv preprint arXiv:1703.06676 (2017).
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
