@@ -25,7 +25,7 @@ Jingqing Zhang (张敬卿) is a 1st-year PhD ([HiPEDS](http://wp.doc.ic.ac.uk/hi
 * \[03/2018\] Our Chinese Deep Learning book is now published: "Deep Learning Using TensorLayer" 《深度学习：一起玩转TensorLayer》[\[Press\]](http://www.broadview.com.cn/book/5059) [\[Github\]](https://github.com/tensorlayer/chinese-book)
 
 ## Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
