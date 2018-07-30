@@ -11,9 +11,9 @@ authors: 'Binbing Liao, <b>Jingqing Zhang</b>, Chao Wu, Douglas McIlwraith, Tong
 
 ###### Binbing Liao and Jingqing Zhang contributed equally to this article. 
 
-[Download paper here](https://arxiv.org/pdf/1806.07380.pdf)
+Paper Link: [arXiv](https://arxiv.org/pdf/1806.07380.pdf) or [KDD18](http://www.kdd.org/kdd2018/accepted-papers/view/deep-sequence-learning-with-auxiliary-information-for-traffic-prediction)
 
-[Code and more info on GitHub](https://github.com/JingqingZ/BaiduTraffic)
+Code and more: [GitHub](https://github.com/JingqingZ/BaiduTraffic)
 
 ## Abstract
 Predicting traffic conditions from online route queries is a challenging task as there are many complicated interactions over the roads and crowds involved. In this paper, we intend to improve traffic prediction by appropriate integration of three kinds of implicit but essential factors encoded in auxiliary information. We do this within an encoder-decoder sequence learning framework that integrates the following data: 1) offline geographical and social attributes. For example, the geographical structure of roads or public social events such as national celebrations; 2) road intersection information, i.e. in general, traffic congestion occurs at major junctions; 3) online crowd queries. For example, when many online queries issued for the same destination due to a public performance, the traffic around the destination will potentially become heavier at this location after a while. Qualitative and quantitative experiments on a real-world dataset from Baidu have demonstrated the effectiveness of our framework.
