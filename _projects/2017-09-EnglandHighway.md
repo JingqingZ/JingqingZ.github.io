@@ -13,6 +13,8 @@ of the requirements for the MRes degree in Advanced Computing
 of Imperial College London. Accepted as a poster in [MLImperial2017](http://www.imperial.ac.uk/machine-learning/).
 
 
+We have published several papers on traffic prediction later, which can be found in my publication list.
+
 ## Abstract 
 
 Both temporal and spatial features provide significant implications for short-term
