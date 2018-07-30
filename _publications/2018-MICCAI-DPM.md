@@ -5,7 +5,7 @@ permalink: /publication/2018-MICCAI-DPM
 date: 2018-09-16
 venue: 'MICCAI 2018, the 21st International Conference on Medical Image Computing and Computer Assisted Intervention'
 paperurl: '#'
-citation: 'Yuanhan Mo, Fangde Liu, Douglas McIlwraith, Guang Yang, <b>Jingqing Zhang</b>, Taigang He, and Yike Guo. "The Deep Poincare Map: A Novel Approach for Left Ventricle Segmentation". The 21st International Conference on Medical Image Computing and Computer-Assisted Intervention. 2018.'
+citation: 'Yuanhan Mo, Fangde Liu, Douglas McIlwraith, Guang Yang, <b>Jingqing Zhang</b>, Taigang He, and Yike Guo. "The Deep Poincare Map: A Novel Approach for Left Ventricle Segmentation". MICCAI 2018, The 21st International Conference on Medical Image Computing and Computer-Assisted Intervention. 2018.'
 authors: 'Yuanhan Mo, Fangde Liu, Douglas McIlwraith, Guang Yang, <b>Jingqing Zhang</b>, Taigang He, and Yike Guo'
 ---
 
