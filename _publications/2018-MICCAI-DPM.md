@@ -13,7 +13,7 @@ Paper Link: [Pending](#)
 
 More information will be published soon.
 
-You may find another paper about DPM helpful [here](/publication/2017-DPM.md).
+You may find another paper about DPM helpful [here](/publication/2017-DPM).
 
 ## Abstract
 Precise segmentation of the left ventricle (LV) within cardiac MRI images is a prerequisite for the quantitative measurement of heart function. However, this task is challenging due to the limited availability of labeled data and motion artifacts from cardiac imaging. In this work, we present an iterative segmentation algorithm for LV delineation. By coupling deep learning with a novel dynamic-based labeling scheme, we present a new methodology where a policy model is learned to guide an agent to travel over the the image, tracing out a boundary of the ROI -- using the magnitude difference of the Poincar\'e map as a stopping criterion. Our method is evaluated on two datasets, namely the Sunnybrook Cardiac Dataset (SCD) and data from the STACOM 2011 LV segmentation challenge. Our method outperforms the previous research on many metrics. In order to demonstrate the transferability of our method we present encouraging results over the STACOM 2011 data, when using a model trained on the SCD dataset.
