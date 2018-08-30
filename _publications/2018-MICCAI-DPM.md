@@ -9,7 +9,7 @@ citation: 'Yuanhan Mo, Fangde Liu, Douglas McIlwraith, Guang Yang, <b>Jingqing Z
 authors: 'Yuanhan Mo, Fangde Liu, Douglas McIlwraith, Guang Yang, <b>Jingqing Zhang</b>, Taigang He, and Yike Guo'
 ---
 
-Paper Link: [Pending](#)
+Paper Link: [PDF](/files/pdf/miccai-2018-poincare.pdf)
 
 More information will be published soon.
 

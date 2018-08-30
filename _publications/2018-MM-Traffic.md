@@ -9,7 +9,7 @@ citation: 'Binbing Liao, <b>Jingqing Zhang</b>, Ming Cai, Siliang Tang, Yifan Ga
 authors: 'Binbing Liao, <b>Jingqing Zhang</b>, Ming Cai, Siliang Tang, Yifan Gao, Chao Wu, Shengwen Yang, Wenwu Zhu, Yike Guo, Fei Wu'
 ---
 
-Paper Link: [Pending](#)
+Paper Link: [PDF](/files/pdf/mm-2018-traffic.pdf)
 
 More information will be published soon.
 
