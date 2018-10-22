@@ -18,7 +18,7 @@ redirect_from:
 --->
 
 
-Jingqing Zhang (张敬卿) is a 1st-year PhD ([HiPEDS](http://wp.doc.ic.ac.uk/hipeds/)) at [Data Science Institute](https://www.imperial.ac.uk/data-science/), [Imperial College London](https://www.imperial.ac.uk/) under the supervision of [Prof. Yi-Ke Guo](https://www.imperial.ac.uk/people/y.guo). His research interest includes Text Mining, Data Mining, Deep Learning, Machine Learning and their applications. He received his BEng degree in [Computer Science and Technology](http://www.tsinghua.edu.cn/publish/csen/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), 2016.
+Jingqing Zhang (张敬卿) is a 2nd-year PhD ([HiPEDS](http://wp.doc.ic.ac.uk/hipeds/)) at [Data Science Institute](https://www.imperial.ac.uk/data-science/), [Imperial College London](https://www.imperial.ac.uk/) under the supervision of [Prof. Yi-Ke Guo](https://www.imperial.ac.uk/people/y.guo). His research interest includes Text Mining, Data Mining, Deep Learning, Machine Learning and their applications. He received his BEng degree in [Computer Science and Technology](http://www.tsinghua.edu.cn/publish/csen/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), 2016.
 
 ## News
 * \[10/2018\] I gave a talk at the [2018 HPCC Systems Community Day](https://hpccsystems.com/community/events/hpcc-systems-summit-2018): [Video](https://youtu.be/smr_C4FuaXo?t=9589) and [Slides](https://www.slideshare.net/hpccsystems/deep-content-learning-in-traffic-prediction-and-text-classification).
