@@ -9,9 +9,7 @@ citation: 'Binbing Liao, <b>Jingqing Zhang</b>, Ming Cai, Siliang Tang, Yifan Ga
 authors: 'Binbing Liao, <b>Jingqing Zhang</b>, Ming Cai, Siliang Tang, Yifan Gao, Chao Wu, Shengwen Yang, Wenwu Zhu, Yike Guo, Fei Wu'
 ---
 
-Paper Link: [PDF](/files/pdf/mm-2018-traffic.pdf)
-
-More information will be published soon.
+Paper Link: [PDF](/files/pdf/mm-2018-traffic.pdf) or [ACM](https://dl.acm.org/citation.cfm?id=3240656)
 
 ## Abstract
 With the ever-increasing urbanization process, the traffic jam has become a common problem in the metropolises around the world, making the traffic speed prediction a crucial and fundamental task. This task is difficult due to the dynamic and intrinsic complexity of the traffic environment in urban cities, yet the emergence of crowd map query data sheds new light on it. In general, a burst of crowd map queries for the same destination in a short duration (called ``hotspot'') could lead to traffic congestion. For example, queries of the Capital Gym burst on weekend evenings lead to traffic jams around the gym. However, unleashing the power of crowd map queries is challenging due to the innate spatiotemporal characteristics of the crowd queries.
@@ -22,3 +20,14 @@ To bridge the gap, this paper firstly discovers hotspots underlying crowd map qu
 ## Q-Traffic Dataset
 Please refer to our KDD'18 traffic paper. [KDD'18](/publication/2018-KDD-Traffic)
 
+## Citation
+```
+@inproceedings{liao2018dest,
+  title={Dest-ResNet: A Deep Spatiotemporal Residual Network for Hotspot Traffic Speed Prediction},
+  author={Liao, Binbing and Zhang, Jingqing and Cai, Ming and Tang, Siliang and Gao, Yifan and Wu, Chao and Yang, Shengwen and Zhu, Wenwu and Guo, Yike and Wu, Fei},
+  booktitle={2018 ACM Multimedia Conference on Multimedia Conference},
+  pages={1883--1891},
+  year={2018},
+  organization={ACM}
+}
+```
