@@ -11,8 +11,6 @@ authors: 'Yuanhan Mo, Fangde Liu, Douglas McIlwraith, Guang Yang, <b>Jingqing Zh
 
 Paper Link: [PDF](/files/pdf/miccai-2018-poincare.pdf)
 
-More information will be published soon.
-
 You may find another paper about DPM helpful [here](/publication/2017-DPM).
 
 ## Abstract
