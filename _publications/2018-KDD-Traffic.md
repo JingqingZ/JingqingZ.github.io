@@ -11,8 +11,6 @@ authors: 'Binbing Liao, <b>Jingqing Zhang</b>, Chao Wu, Douglas McIlwraith, Tong
 
 ###### Binbing Liao and Jingqing Zhang contributed equally to this article. 
 
-<br/>
-
 Paper Link: [arXiv](https://arxiv.org/pdf/1806.07380.pdf) or [KDD18](http://www.kdd.org/kdd2018/accepted-papers/view/deep-sequence-learning-with-auxiliary-information-for-traffic-prediction)
 
 Code and more: [GitHub](https://github.com/JingqingZ/BaiduTraffic)

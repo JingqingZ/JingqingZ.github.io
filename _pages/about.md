@@ -18,12 +18,21 @@ redirect_from:
 --->
 
 
-Jingqing Zhang (张敬卿) is a 2nd-year PhD ([HiPEDS](http://wp.doc.ic.ac.uk/hipeds/)) at [Data Science Institute](https://www.imperial.ac.uk/data-science/), [Imperial College London](https://www.imperial.ac.uk/) under the supervision of [Prof. Yi-Ke Guo](https://www.imperial.ac.uk/people/y.guo). His research interest includes Text Mining, Data Mining, Deep Learning, Machine Learning and their applications. He received his BEng degree in [Computer Science and Technology](http://www.tsinghua.edu.cn/publish/csen/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), 2016.
+Jingqing Zhang (张敬卿) is a 2nd-year PhD
+ ([HiPEDS](http://wp.doc.ic.ac.uk/hipeds/)) 
+ at [Data Science Institute](https://www.imperial.ac.uk/data-science/), 
+ [Imperial College London](https://www.imperial.ac.uk/) 
+ under the supervision of [Prof. Yi-Ke Guo](https://www.imperial.ac.uk/people/y.guo). 
+ His research interest includes Deep Learning, Machine Learning, Text Mining, Data Mining and their applications. 
+ He received his BEng degree in [Computer Science and Technology](http://www.tsinghua.edu.cn/publish/csen/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), 2016, 
+ and MRes degree with distinction in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/advanced-degrees/mres-in-advanced-computing/) from 
+ [Imperial College London](https://www.imperial.ac.uk/), 2017.
 
 ## News
-* \[12/2018\] Together with [Dr. Luo Mai](https://www.doc.ic.ac.uk/~lm111/), we gave a talk at [GDG DevFest London 2018](https://devfest.gdg.london/) about [TensorLayer](https://github.com/tensorlayer): [Video](https://youtu.be/064_cf5JlbM?t=6202)
+* \[06/2018\] Our paper about zero-shot text classification will be presented as a talk in NAACL-HLT'19. [More](/publication/2019-KG4TextClass).
+* \[12/2018\] Together with [Dr. Luo Mai](https://www.doc.ic.ac.uk/~lm111/), we gave a talk at [GDG DevFest London 2018](https://devfest.gdg.london/) about [TensorLayer](https://github.com/tensorlayer): [Video](https://youtu.be/064_cf5JlbM?t=16282)
 * \[10/2018\] I gave a talk at the [2018 HPCC Systems Community Day](https://hpccsystems.com/community/events/hpcc-systems-summit-2018): [Video](https://youtu.be/smr_C4FuaXo?t=9589) and [Slides](https://www.slideshare.net/hpccsystems/deep-content-learning-in-traffic-prediction-and-text-classification).
-* \[08/2018\] Our paper about traffic prediction using online search query will appear in KDD'18 [More](/publication/2018-KDD-Traffic)
+* \[08/2018\] Our paper about traffic prediction using online search query will appear in KDD'18. [More](/publication/2018-KDD-Traffic)
 * \[03/2018\] Our Chinese Deep Learning book is now published: "Deep Learning Using TensorLayer" 《深度学习：一起玩转TensorLayer》[\[Press\]](http://www.broadview.com.cn/book/5059) [\[Github\]](https://github.com/tensorlayer/chinese-book)
 
 ## Publications

@@ -11,6 +11,8 @@ authors: '<b>Jingqing Zhang</b>, Piyawat Lertvittayakumjorn, Yike Guo'
 
 ###### Jingqing Zhang and Piyawat Lertvittayakumjorn contributed equally to this project.
 
+More information is going to be released later (by April 2019).
+
 [Links Pending](#)
 
 ## Abstract
