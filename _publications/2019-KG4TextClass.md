@@ -13,7 +13,9 @@ authors: '<b>Jingqing Zhang</b>, Piyawat Lertvittayakumjorn, Yike Guo'
 
 More information is going to be released later (by April 2019).
 
-[Links Pending](#)
+[PDF](/files/pdf/naacl-2019-zero-shot-text.pdf)
+
+Note that this is not the final version and may be subject to minor changes.
 
 Code and more: [Github](https://github.com/JingqingZ/KG4ZeroShotText)
 
