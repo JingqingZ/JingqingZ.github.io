@@ -15,6 +15,10 @@ More information is going to be released later (by April 2019).
 
 [Links Pending](#)
 
+Code and more: [Github](https://github.com/JingqingZ/KG4ZeroShotText)
+
+Note that the Github repo is still under construction at this stage.
+
 ## Abstract
 Insufficient or even unavailable training data of emerging classes is a big challenge of many classification tasks, including text classification.
 Recognising text documents of classes that have never been seen in the learning stage, so-called zero-shot text classification, is therefore difficult and only limited previous works tackled this problem.
