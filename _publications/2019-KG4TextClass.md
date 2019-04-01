@@ -11,19 +11,28 @@ authors: '<b>Jingqing Zhang</b>, Piyawat Lertvittayakumjorn, Yike Guo'
 
 ###### Jingqing Zhang and Piyawat Lertvittayakumjorn contributed equally to this project.
 
-More information is going to be released later (by April 2019).
-
-[PDF](/files/pdf/naacl-2019-zero-shot-text.pdf)
-
-Note that this is not the final version and may be subject to minor changes.
+Paper link: [arXiv:1903.12626](https://arxiv.org/abs/1903.12626)
 
 Code and more: [Github](https://github.com/JingqingZ/KG4ZeroShotText)
-
-Note that the Github repo is still under construction at this stage.
 
 ## Abstract
 Insufficient or even unavailable training data of emerging classes is a big challenge of many classification tasks, including text classification.
 Recognising text documents of classes that have never been seen in the learning stage, so-called zero-shot text classification, is therefore difficult and only limited previous works tackled this problem.
 In this paper, we propose a two-phase framework together with data augmentation and feature augmentation to solve this problem. Four kinds of semantic knowledge (word embeddings, class descriptions, class hierarchy, and a general knowledge graph) are incorporated into the proposed framework to deal with instances of unseen classes effectively. Experimental results show that each and the combination of the two phases clearly outperform baseline and recent approaches in classifying real-world texts under the zero-shot scenario. 
+
+## Citation
+```
+@inproceedings{zhangkumjornZeroShot,
+    title = "Integrating Semantic Knowledge to Tackle Zero-shot Text Classification",
+    author = "Zhang, Jingqing and
+    Lertvittayakumjorn, Piyawat and 
+    Guo, Yike",
+    booktitle = "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Long Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, USA",
+    publisher = "Association for Computational Linguistics",
+}
+```
 
 
