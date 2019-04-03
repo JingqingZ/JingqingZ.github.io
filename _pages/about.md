@@ -29,6 +29,7 @@ Jingqing Zhang (张敬卿) is a 2nd-year PhD
  [Imperial College London](https://www.imperial.ac.uk/), 2017.
 
 ## News
+* \[04/2019\] TensorLayer 2.0 is releasing! [\[Github\]](https://github.com/zsdonghao/tensorlayer2) [\[Doc\]](tensorlayer2.readthedocs.io)
 * \[03/2019\] Our paper about zero-shot text classification will be presented as a talk in NAACL-HLT'19. [More](/publication/2019-KG4TextClass).
 * \[12/2018\] Together with [Dr. Luo Mai](https://www.doc.ic.ac.uk/~lm111/), we gave a talk at [GDG DevFest London 2018](https://devfest.gdg.london/) about [TensorLayer](https://github.com/tensorlayer): [Video](https://youtu.be/064_cf5JlbM?t=16282)
 * \[10/2018\] I gave a talk at the [2018 HPCC Systems Community Day](https://hpccsystems.com/community/events/hpcc-systems-summit-2018): [Video](https://youtu.be/smr_C4FuaXo?t=9589) and [Slides](https://www.slideshare.net/hpccsystems/deep-content-learning-in-traffic-prediction-and-text-classification).
