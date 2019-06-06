@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[\[PDF\]](/files/CV-JingqingZhang.pdf)
+<!--- [\[PDF\]](/files/CV-JingqingZhang.pdf) --->
 
 Education
 ======
