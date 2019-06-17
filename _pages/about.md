@@ -23,7 +23,8 @@ Jingqing Zhang (张敬卿) is a 2nd-year PhD
  at [Data Science Institute](https://www.imperial.ac.uk/data-science/), 
  [Imperial College London](https://www.imperial.ac.uk/) 
  under the supervision of [Prof. Yi-Ke Guo](https://www.imperial.ac.uk/people/y.guo). 
- His research interest includes Deep Learning, Machine Learning, Text Mining, Data Mining and their applications. 
+ His research interest includes Computer Linguistics. 
+  <!--- Deep Learning, Machine Learning, Text Mining, Data Mining and their applications.  --->
  He received his BEng degree in [Computer Science and Technology](http://www.tsinghua.edu.cn/publish/csen/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), 2016, 
  and MRes degree with distinction in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/advanced-degrees/mres-in-advanced-computing/) from 
  [Imperial College London](https://www.imperial.ac.uk/), 2017.
