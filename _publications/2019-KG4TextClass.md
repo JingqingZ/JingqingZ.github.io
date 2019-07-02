@@ -11,7 +11,7 @@ authors: '<b>Jingqing Zhang</b>, Piyawat Lertvittayakumjorn, Yike Guo'
 
 ###### Jingqing Zhang and Piyawat Lertvittayakumjorn contributed equally to this project.
 
-Paper link: [arXiv:1903.12626](https://arxiv.org/abs/1903.12626)
+Paper link: [arXiv:1903.12626](https://arxiv.org/abs/1903.12626) or [NAACL19](https://www.aclweb.org/anthology/N19-1108)
 
 Code and more: [Github](https://github.com/JingqingZ/KG4ZeroShotText)
 
@@ -32,6 +32,7 @@ In this paper, we propose a two-phase framework together with data augmentation 
     year = "2019",
     address = "Minneapolis, USA",
     publisher = "Association for Computational Linguistics",
+    pages = {1031--1040},
 }
 ```
 
