@@ -25,6 +25,16 @@ Publications
   {% endfor %}</ul>
   
   
+Projects
+======
+  <ul><li>
+    <h3 class="archive__item-title" itemprop="headline">
+        <a href="https://github.com/tensorlayer/tensorlayer" rel="permalink">TensorLayer 2.0</a>
+    </h3>
+    <p class="archive__item-excerpt" itemprop="description">A novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers.</p>
+  </li></ul>
+  
+  
 Awards & Scholarships
 ======
 * PhD Scholarship supported by LexisNexis HPCC Systems Academic Program from 2016
