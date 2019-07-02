@@ -32,7 +32,14 @@ Awards & Scholarships
 * Tsinghua & Tung OOCL Scholarship (top 10%) in 2014
 * Tsinghua & Evergrand Scholarship (top 10%) in 2013
 
-Services
+Professional Activities
 ======
-* Review for ICCS19-MLDADS, TKDE
+* Reviewer of ICCS19-MLDADS, TKDE
+
+Graduate Teaching Assistant
+======
+* CO145 Mathematical Method: 2018 Fall
+* CO202 Algorithm II: 2018 Spring, 2018 Fall
+* CO245 Probability and Statistics: 2018 Spring, 2019 Spring
+* CO395 Introduction to Machine Learning: 2019 Spring
 
