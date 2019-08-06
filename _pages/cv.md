@@ -44,7 +44,8 @@ Awards & Scholarships
 
 Professional Activities
 ======
-* Reviewer of ICCS19-MLDADS, TKDE
+* Reviewer of workshops: ICCS19-MLDADS
+* Reviewer of journals: TKDE, Cognitive Systems Research
 
 Graduate Teaching Assistant
 ======
