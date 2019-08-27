@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<!--- [\[PDF\]](/files/CV-JingqingZhang.pdf) --->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+[\[PDF\]](/files/CV-JingqingZhang.pdf)
 
 Education
 ======
@@ -29,9 +31,18 @@ Projects
 ======
   <ul><li>
     <h3 class="archive__item-title" itemprop="headline">
-        <a href="https://github.com/tensorlayer/tensorlayer" rel="permalink">TensorLayer 2.0</a>
+        TensorLayer 2.0
+        <a class="github-button" style="vertical-align: middle" href="https://github.com/tensorlayer/tensorlayer" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">Star</a>
     </h3>
-    <p class="archive__item-excerpt" itemprop="description">A novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers.</p>
+    <p class="archive__item-excerpt" itemprop="description">A novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. Best Open Source Software Award @ACM Multimedia (MM) 2017.</p>
+  </li></ul>
+  <ul><li>
+    <h3 class="archive__item-title" itemprop="headline">
+        KDDCUP 2019 AutoML Track
+    </h3>
+    <p class="archive__item-excerpt" itemprop="description">A solution for the KDDCUP 2019 AutoML Track using LightGBM. 
+    <a href="/files/pdf/kddcup-2019-automl-betakdd.pdf">[Poster]</a>
+    </p>
   </li></ul>
   
   
@@ -53,4 +64,5 @@ Graduate Teaching Assistant
 * CO202 Algorithm II: 2018 Spring, 2018 Fall
 * CO245 Probability and Statistics: 2018 Spring, 2019 Spring
 * CO395 Introduction to Machine Learning: 2019 Spring
+* Data Science Camp: 2019 Winter, 2019 Summer
 
