@@ -1,0 +1,16 @@
+---
+title: "Integrated Multi-omics Analysis Using Variational Autoencoders: Application to Pan-cancer Classification"
+collection: publications
+permalink: /publication/2019-BIBM-VAE
+date: 2019-11-18
+venue: '2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019.'
+paperurl: '#'
+citation: 'Xiaoyu Zhang, <b>Jingqing Zhang</b>, Kai Sun, Xian Yang, Chengliang Dai, Yike Guo. "Integrated Multi-omics Analysis Using Variational Autoencoders: Application to Pan-cancer Classification". 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019.'
+authors: 'Xiaoyu Zhang, <b>Jingqing Zhang</b>, Kai Sun, Xian Yang, Chengliang Dai, Yike Guo'
+---
+
+More information will be released soon.
+
+## Abstract
+Different aspects of a clinical sample can be revealed by multiple types of omics data. Integrated analysis of multi-omics data provides a comprehensive view of patients, which has the potential to facilitate more accurate clinical decision making. However, omics data are normally high dimensional with large number of molecular features and relatively small number of available samples with clinical labels. The "dimensionality curse" makes it challenging to train a machine learning model using high dimensional omics data like DNA methylation and gene expression profiles. Here we propose an end-to-end deep learning model called OmiVAE to extract low dimensional features and classify samples from multi-omics data. OmiVAE combines the basic structure of variational autoencoders with a classification network to achieve task-oriented feature extraction and multi-class classification. The training procedure of OmiVAE is comprised of an unsupervised phase without the classifier and a supervised phase with the classifier. During the unsupervised phase, a hierarchical cluster structure of samples can be automatically formed without the need for labels. And in the supervised phase, OmiVAE achieved an average classification accuracy of 97.49% after 10-fold cross-validation among 33 tumour types and normal samples, which shows better performance than other existing methods. The OmiVAE model learned from multi-omics data outperformed that using only one type of omics data, which indicates that the complementary information from different omics datatypes provides useful insights for biomedical tasks like cancer classification.
+

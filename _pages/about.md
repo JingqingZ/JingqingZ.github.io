@@ -18,7 +18,7 @@ redirect_from:
 --->
 
 
-Jingqing Zhang (张敬卿) is a 2nd-year PhD
+Jingqing Zhang (张敬卿) is a 3rd-year PhD
  ([HiPEDS](http://wp.doc.ic.ac.uk/hipeds/)) 
  at Department of Computing
  <!---[Data Science Institute](https://www.imperial.ac.uk/data-science/) --->
@@ -31,6 +31,7 @@ Jingqing Zhang (张敬卿) is a 2nd-year PhD
  [Imperial College London](https://www.imperial.ac.uk/), 2017.
 
 ## Activities
+* \[10/2019\] Two papers accepted by [BIBM 2019](https://ieeebibm.org/BIBM2019/).
 * \[04/2019\] TensorLayer 2.0 has been released! [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)
 * \[03/2019\] Our paper about zero-shot text classification was presented as a talk in NAACL-HLT'19. [More](/publication/2019-KG4TextClass).
 * \[12/2018\] Together with [Dr. Luo Mai](https://www.doc.ic.ac.uk/~lm111/), we gave a talk at [GDG DevFest London 2018](https://devfest.gdg.london/) about [TensorLayer](https://github.com/tensorlayer): [Video](https://youtu.be/064_cf5JlbM?t=16282)

@@ -20,6 +20,11 @@ Education
 * B.Eng. from Department of Computer Science and Technology, in Tsinghua University, 2016
 
 
+Work Experience
+======
+* Research Intern @ Google Brain, Mountain View, CA, USA. From Sep to Dec 2019.
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
