@@ -13,7 +13,7 @@ authors: '<b>Jingqing Zhang</b>, Piyawat Lertvittayakumjorn, Yike Guo'
 
 Paper link: [arXiv:1903.12626](https://arxiv.org/abs/1903.12626) or [NAACL19](https://www.aclweb.org/anthology/N19-1108)
 
-Code and more: [Github](https://github.com/JingqingZ/KG4ZeroShotText)
+[Github](https://github.com/JingqingZ/KG4ZeroShotText) and [Slides](https://www.aclweb.org/anthology/attachments/N19-1108.Presentation.pdf)
 
 ## Abstract
 Insufficient or even unavailable training data of emerging classes is a big challenge of many classification tasks, including text classification.
