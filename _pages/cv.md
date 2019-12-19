@@ -17,7 +17,7 @@ Education
 ======
 * PhD Student at Department of Computing, in Imperial College London, 2021 (Expected)
 * M.Res. from Department of Computing, in Imperial College London, 2017 (Distinction)
-* B.Eng. from Department of Computer Science and Technology, in Tsinghua University, 2016
+* B.Eng. from Department of Computer Science and Technology, in Tsinghua University, 2016 (GPA 91/100)
 
 
 Work Experience
