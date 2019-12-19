@@ -22,7 +22,7 @@ Education
 
 Work Experience
 ======
-* Research Intern @ Google Brain, Mountain View, CA, USA. From Sep to Dec 2019.
+* Research Intern @ Google Research, Brain Team, Mountain View, CA, USA. From Sep to Dec 2019. We propose [PEGASUS](/publication/2019-PEGASUS), a pre-training model tailored for abstractive text summarization.
 
 
 Publications
@@ -53,7 +53,7 @@ Projects
   
 Awards & Scholarships
 ======
-* PhD Scholarship supported by LexisNexis HPCC Systems Academic Program from 2016
+* PhD Scholarship supported by LexisNexis HPCC Systems Academic Program 2016-2020
 * National Scholarship of China (top 1%) in 2015
 * Tsinghua & Tung OOCL Scholarship (top 10%) in 2014
 * Tsinghua & Evergrand Scholarship (top 10%) in 2013
