@@ -67,7 +67,8 @@ Graduate Teaching Assistant
 ======
 * CO145 Mathematical Method: 2018 Fall
 * CO202 Algorithm II: 2018 Spring, 2018 Fall
-* CO245 Probability and Statistics: 2018 Spring, 2019 Spring
+* CO245 Probability and Statistics: 2018 Spring, 2019 Spring, 2020 Spring
 * CO395 Introduction to Machine Learning: 2019 Spring
+* CO490 Natural Language Processing: 2020 Spring
 * Data Science Camp: 2019 Winter, 2019 Summer
 
