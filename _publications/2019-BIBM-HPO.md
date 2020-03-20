@@ -9,7 +9,7 @@ citation: '<b>Jingqing Zhang</b>, Xiaoyu Zhang, Kai Sun, Xian Yang, Chengliang D
 authors: '<b>Jingqing Zhang</b>, Xiaoyu Zhang, Kai Sun, Xian Yang, Chengliang Dai, Yike Guo'
 ---
 
-Paper: [arXiv:1911.03862](https://arxiv.org/abs/1911.03862)
+Paper: [arXiv:1911.03862](https://arxiv.org/abs/1911.03862) or [BIBM](https://ieeexplore.ieee.org/document/8983253)
 
 Code: [Github](https://github.com/JingqingZ/Semantic-HPO)
 
