@@ -22,7 +22,7 @@ Education
 
 Work Experience
 ======
-* Research Intern @ Google Research, Brain Team, Mountain View, CA, USA. From Sep to Dec 2019. We propose [PEGASUS](/publication/2019-PEGASUS), a pre-training model tailored for abstractive text summarization.
+* Research Intern @ Google Research, Brain Team, Mountain View, CA, USA. From Sep to Dec 2019. We propose [PEGASUS](/publication/2019-PEGASUS), a pre-training model tailored for abstractive text summarization which achieves state-of-the-art on 12 datasets.
 
 
 Publications
