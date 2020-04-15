@@ -31,8 +31,8 @@ Jingqing Zhang (张敬卿) is a 3rd-year PhD
  [Imperial College London](https://www.imperial.ac.uk/), 2017.
 
 ## Activities
+* \[04/2020\] [PEGASUS](/publication/2019-PEGASUS), a pre-training model tailored for abstractive text summarization which achieves state-of-the-art on 12 datasets, is now public (including [code](https://github.com/google-research/pegasus)). This work is completed together with my excellent colleagues during my internship at Google Research, Brain Team. 
 * \[02/2019\] I was invited to share my research about clinical NLP at Elsevier: [talk](https://elsevier.zoom.us/rec/share/y9FuHunLrlpLWJXf6n74VIoxFYbCaaa81Sca_6FfnU0IMRzk3iZQh2SOP-LZgg0o) and [slides](/files/talks/202002-Elsevier-Jingqing.pdf).
-* \[12/2019\] [PEGASUS](/publication/2019-PEGASUS), a pre-training model tailored for abstractive text summarization which achieves state-of-the-art on 12 datasets, is now public. This work is completed together with my excellent colleagues during my internship at Google Research, Brain Team. 
 * \[10/2019\] Two papers accepted by [BIBM 2019](https://ieeebibm.org/BIBM2019/). One about unsupervised phenotype annotation on medical notes [\[more\]](/publication/2019-BIBM-HPO) and the other using VAE to extract low dimentional features from multi-omics data [\[more\]](/publication/2019-BIBM-VAE).
 * \[04/2019\] TensorLayer 2.0 has been released! [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)
 * \[03/2019\] Our paper about zero-shot text classification was presented as a talk in NAACL-HLT'19 [\[more\]](/publication/2019-KG4TextClass).
