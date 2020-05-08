@@ -45,4 +45,7 @@ Jingqing Zhang (张敬卿) is a 3rd-year PhD
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+## Selected Projects on [GitHub](https://github.com/JingqingZ)
+
 
