@@ -32,7 +32,7 @@ Publications
   {% endfor %}</ul>
   
   
-Projects
+Projects [\[GitHub\]](https://github.com/JingqingZ)
 ======
   <ul><li>
     <h3 class="archive__item-title" itemprop="headline">
