@@ -3,9 +3,9 @@ title: "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summa
 collection: publications
 permalink: /publication/2019-PEGASUS
 date: 2019-12-18
-venue: ''
+venue: 'Thirty-seventh International Conference on Machine Learning (ICML 2020)'
 paperurl: 'https://arxiv.org/abs/1912.08777'
-citation: '<b>Jingqing Zhang</b>, Yao Zhao, Mohammad Saleh, Peter J. Liu. "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization." arXiv preprint arXiv:1912.08777 (2019)'
+citation: '<b>Jingqing Zhang</b>, Yao Zhao, Mohammad Saleh, Peter J. Liu. "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization." Thirty-seventh International Conference on Machine Learning (ICML). 2020. '
 authors: '<b>Jingqing Zhang</b>, Yao Zhao, Mohammad Saleh, Peter J. Liu'
 ---
 
