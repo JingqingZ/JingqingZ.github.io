@@ -5,8 +5,8 @@ permalink: /publication/2020-DRL-Book
 date: 2020-08-15
 venue: 'Springer Nature'
 paperurl: 'https://deepreinforcementlearningbook.org/'
-citation: 'Hao Dong, Zihan Ding, Shanghang Zhang, Jingqing Zhang, et al., Deep Reinforcement Learning: Fundamentals, Research and Applications, Springer Nature, 2020'
-authors: 'Hao Dong, Zihan Ding, Shanghang Zhang, Jingqing Zhang, et al.'
+citation: 'Hao Dong, Zihan Ding, Shanghang Zhang, <b>Jingqing Zhang</b>, et al., Deep Reinforcement Learning: Fundamentals, Research and Applications, Springer Nature, 2020'
+authors: 'Hao Dong, Zihan Ding, Shanghang Zhang, <b>Jingqing Zhang</b>, et al.'
 ---
 
 Useful Links: [https://deepreinforcementlearningbook.org/](https://deepreinforcementlearningbook.org/)
