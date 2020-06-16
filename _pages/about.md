@@ -29,6 +29,7 @@ Jingqing Zhang (张敬卿) is a 3rd-year PhD
  He received his BEng degree in [Computer Science and Technology](http://www.tsinghua.edu.cn/publish/csen/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/), 2016, 
  and MRes degree with distinction in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/advanced-degrees/mres-in-advanced-computing/) from 
  [Imperial College London](https://www.imperial.ac.uk/), 2017.
+ I am also a technical co-founder of [Pangaea Data](https://www.pangaeadata.ai/).
 
 ## Activities
 * \[06/2020\] [PEGASUS](/publication/2019-PEGASUS), a pre-training model tailored for abstractive text summarization which achieves state-of-the-art on 12 datasets, is now public (including [code and checkpoints](https://github.com/google-research/pegasus)). This work is completed together with my excellent colleagues during my internship at Google Research, Brain Team. PEGASUS is accepted by ICML 2020.
