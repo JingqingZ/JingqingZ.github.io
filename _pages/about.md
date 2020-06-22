@@ -33,6 +33,7 @@ Jingqing Zhang (张敬卿) is a 3rd-year PhD
 
 ## Activities
 * \[06/2020\] [PEGASUS](/publication/2019-PEGASUS), a pre-training model tailored for abstractive text summarization which achieves state-of-the-art on 12 datasets, is now public (including [code and checkpoints](https://github.com/google-research/pegasus)). This work is completed together with my excellent colleagues during my internship at Google Research, Brain Team. PEGASUS is accepted by ICML 2020.
+* \[06/2020\] Our book about [Deep Reinforcement Learning by Springer](https://deepreinforcementlearningbook.org/) is available for pre-order now.
 * \[04/2020\] I was invited to share our research about clinical NLP at LexisNexis HPCC Tech Talk. [Video](https://www.youtube.com/watch?v=uKxPuwxPz_8&feature=youtu.be)
 * \[02/2019\] I was invited to share our research about clinical NLP at Elsevier: [talk](https://elsevier.zoom.us/rec/share/y9FuHunLrlpLWJXf6n74VIoxFYbCaaa81Sca_6FfnU0IMRzk3iZQh2SOP-LZgg0o) and [slides](/files/talks/202002-Elsevier-Jingqing.pdf).
 * \[10/2019\] Two papers accepted by [BIBM 2019](https://ieeebibm.org/BIBM2019/). One about unsupervised phenotype annotation on medical notes [\[more\]](/publication/2019-BIBM-HPO) and the other using VAE to extract low dimentional features from multi-omics data [\[more\]](/publication/2019-BIBM-VAE).
