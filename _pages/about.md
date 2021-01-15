@@ -18,7 +18,7 @@ redirect_from:
 --->
 
 
-Jingqing Zhang (张敬卿) is a 3rd-year PhD
+Jingqing Zhang (张敬卿) is a final-year PhD
  ([HiPEDS](http://wp.doc.ic.ac.uk/hipeds/)) 
  at Department of Computing
  <!---[Data Science Institute](https://www.imperial.ac.uk/data-science/) --->
