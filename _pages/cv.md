@@ -61,7 +61,7 @@ Awards & Scholarships
 Professional Activities
 ======
 * Reviewer of workshops: ICCS19-MLDADS
-* Reviewer of conferences: MICCAI
+* Reviewer of conferences: ACL, EMNLP, MICCAI
 * Reviewer of journals: TKDE, Cognitive Systems Research
 
 Graduate Teaching Assistant
